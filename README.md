@@ -13,3 +13,12 @@ You have an idea? Submit a pull request and we merge it in! :-)
 
 This terms of service where originally written by [Dennis Schubert](https://github.com/denschub) 
 for Diaspora-Pods. You can find [the original documents here](https://github.com/geraspora/german-terms-of-service)
+
+Usage
+=====
+
+The terms_of_service.txt is intended to be used with the Friendica "Impressum"-Plugin bei [Tobias Diekersdorf](https://github.com/tobiasd).
+
+Install the [Friendica addons](https://github.com/friendica/friendica-addons) on your friendica node and activate the "Impressum"-Plugin in the admin menu.
+
+Add your details in the admin page of that plugin and paste the terms_of_service.txt into the "Hinweise"-Field. Edit the text as needed.
