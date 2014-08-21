@@ -13,7 +13,7 @@ E-Mail: example@example.com
 1. Vorwort
 ----------
 
-"Friendica Knoten Name" ist eine Installation der Software des Friendica-Projektes. Der
+<code>Friendica Knoten Name</code> ist eine Installation der Software des Friendica-Projektes. Der
 Quellcode der Software ist für jeden offen zugänglich und kann eingesehen,
 heruntergeladen, genutzt und verteilt werden.
 
@@ -36,7 +36,7 @@ Problems und ggf. die Löschung der Inhalte bitten. Sollte keine andere
 Möglichkeit bestehen, wird der Betreiber die Inhalte löschen.
 
 Bisher durch den Betreiber oder nach Aufforderung des Betreibers gelöschte
-Inhalte: "Anzahl der durch den Betreiber gelöschen Inhalte".
+Inhalte: <code>Anzahl der durch den Betreiber gelöschen Inhalte</code>.
 
 3. Haftung für Ausfälle und Datenverlust
 ----------------------------------------

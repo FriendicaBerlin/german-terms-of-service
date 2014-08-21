@@ -11,7 +11,5 @@ they are licensed under the CC-BY license.
 
 You have an idea? Submit a pull request and we merge it in! :-)
 
-This terms of service where originally written by Dennis Schubert 
-(https://github.com/denschub) for Diaspora-Pods. You can find the original 
-documents here:
-https://github.com/geraspora/german-terms-of-service
+This terms of service where originally written by [Dennis Schubert](https://github.com/denschub) 
+for Diaspora-Pods. You can find [the original documents here](https://github.com/geraspora/german-terms-of-service)
