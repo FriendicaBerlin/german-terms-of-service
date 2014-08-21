@@ -1,7 +1,7 @@
 Impressum, Nutzungsbedingungen und Datenschutz
 ==============================================
 
-Betreiber_ininformationen gemäß § 5 TMG
+Betreiberinformationen gemäß § 5 TMG
 ------------------------------------
 
 Dein Name  
